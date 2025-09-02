@@ -1,5 +1,0 @@
-.tb-spotify-np{display:flex;align-items:center;gap:12px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial,'Noto Sans','Liberation Sans',sans-serif}
-.tb-spotify-np__cover img{width:64px;height:64px;border-radius:10px;object-fit:cover;display:block}
-.tb-spotify-np__track{font-weight:700;text-decoration:none}
-.tb-spotify-np__artist{opacity:.75}
-.tb-spotify-np__state{font-size:12px;opacity:.7}
